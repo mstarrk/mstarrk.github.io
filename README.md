@@ -1,1 +1,1 @@
-### Blog using github pages and [reverie](https://github.com/amitmerchant1990/reverie)
+### Blog using github pages and [Reverie](https://github.com/amitmerchant1990/reverie)
