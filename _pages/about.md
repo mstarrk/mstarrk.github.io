@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Nothing here yet ... here's a dog: 🐕
+Nada por aquí aún ... pero aquí hay un perro: 🐕

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Algorithms
+title:  "Algoritmos básicos: Notación 'Big O', busqueda y ordenamiento [EN]"
 categories: [Computer Science, Code]
-excerpt: Big O notation and, searching and sorting algorithms.
+excerpt: Un tutorial en pseudocódigo, explicando algunos algoritmos comunes
 ---
 
 # Algorithms
